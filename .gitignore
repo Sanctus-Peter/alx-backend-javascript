@@ -3,3 +3,4 @@ package.json
 .idea
 node_modules
 Node.js Core
+tests*
