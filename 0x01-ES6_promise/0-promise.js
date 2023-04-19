@@ -11,6 +11,8 @@
  *     console.log('API call failed');
  *   });
  */
+
+
 export default function getResponseFromAPI() {
   const success = true;
 
