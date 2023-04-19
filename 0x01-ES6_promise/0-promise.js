@@ -1,18 +1,3 @@
-/**
- * Retrieves response from an API using a Promise.
- *
- * @returns {Promise} A Promise that resolves if the API call is successful, and rejects if it fails.
- * @example
- * getResponseFromAPI()
- *   .then(() => {
- *     console.log('API call successful');
- *   })
- *   .catch(() => {
- *     console.log('API call failed');
- *   });
- */
-
-
 export default function getResponseFromAPI() {
   const success = true;
 
