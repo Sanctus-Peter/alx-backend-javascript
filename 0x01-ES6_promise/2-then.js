@@ -1,4 +1,4 @@
-/**
+/*
  * Handles the response from an API call represented as a Promise.
  *
  * @param {Promise} promise - A Promise that represents the response from an API call.
