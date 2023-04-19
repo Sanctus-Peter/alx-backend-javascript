@@ -9,10 +9,11 @@ This repository is a continuation of:
 * [ALX-High_level_programming](https://github.com/Sanctus-Peter/alx-high_level_programming) and serves to build on ALX-Low_level_programming
 ### Table of Contents
 
-| Projects                          | Short Description                                                                       |
-|-----------------------------------|-----------------------------------------------------------------------------------------|
-| [0x00-ES6_BASICS](0x00-ES6_basic) | returns a list of lists of integers representing the first n rows of Pascal's Triangle. |
-| Updates Loading!!!                | Always check back to see if new content has been added                                  |
+| Projects                             | Short Description                                      |
+|--------------------------------------|--------------------------------------------------------|
+| [0x00-ES6_BASICS](0x00-ES6_basic)    | Deals with the basics of ES6 and its features          |
+| [0x01-ES6_promise](0x01-ES6_promise) | Deals with Promises as related to async and await      |
+| Updates Loading!!!                   | Always check back to see if new content has been added |
 
 ## WARNINGS!!!
 
