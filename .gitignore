@@ -7,3 +7,6 @@ tests*
 babel.config.js
 utils.js
 .eslintrc.js
+webpack.config.js
+tsconfig.json
+yarn.lock
